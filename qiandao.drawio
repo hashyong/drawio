@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T09:30:34.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0yVMi5H4arCQ-IkBuJZ2" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T09:31:27.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="zbBWNyvueKnDh9f-EtVO" version="14.5.8" type="github">
   <diagram id="y-cElAqZKnmPTafvXozH" name="Page-1">
     <mxGraphModel dx="2889" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="ovo-RbeHINt_-BDwbEt4-39" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovo-RbeHINt_-BDwbEt4-36" target="ovo-RbeHINt_-BDwbEt4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ovo-RbeHINt_-BDwbEt4-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;展示用户活动页面数据&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcc99;glass=0;" vertex="1" parent="1">
+        <mxCell id="ovo-RbeHINt_-BDwbEt4-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;展示用户活动页面3&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcc99;glass=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovo-RbeHINt_-BDwbEt4-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovo-RbeHINt_-BDwbEt4-38" target="ovo-RbeHINt_-BDwbEt4-40">
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="ovo-RbeHINt_-BDwbEt4-48" value="&lt;span style=&quot;font-size: 20px&quot;&gt;？？？&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;strokeColor=#36393d;strokeWidth=2;fillColor=#ffcc99;glass=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovo-RbeHINt_-BDwbEt4-52" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;QB福利中心签到活动 拉取活动数据示意图&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="130" width="410" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
