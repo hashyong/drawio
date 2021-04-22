@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T12:28:26.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="C9woyi_H13koHjDhKurS" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T12:30:49.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="G5BMBcHSQwcWFwryQzh8" version="14.6.1" type="github">
   <diagram id="q6gtLLuuumNyU__RZeLn" name="Page-1">
     <mxGraphModel dx="2062" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,9 +16,6 @@
         <mxCell id="4e6u0JH_3afCgV2eePuw-3" value="OAS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4e6u0JH_3afCgV2eePuw-5" value="人工投放流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="180" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="4e6u0JH_3afCgV2eePuw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;curved=1;strokeWidth=2;" edge="1" parent="1" source="4e6u0JH_3afCgV2eePuw-6" target="4e6u0JH_3afCgV2eePuw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -33,6 +30,9 @@
         </mxCell>
         <mxCell id="4e6u0JH_3afCgV2eePuw-10" value="人工 &lt;br&gt;1.&amp;nbsp; 圈定人群&lt;br&gt;2. 指定素材&lt;br&gt;3. 指定广告位" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4e6u0JH_3afCgV2eePuw-13" value="人工投放流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Comic Sans MS;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
