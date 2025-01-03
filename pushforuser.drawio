@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="U248yt8JKovHNuukocM4">
-    <mxGraphModel>
+    <mxGraphModel dx="994" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnM7TaK5tYBboMlZSGVB-1" target="bnM7TaK5tYBboMlZSGVB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnM7TaK5tYBboMlZSGVB-1" target="bnM7TaK5tYBboMlZSGVB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-1" value="put online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnM7TaK5tYBboMlZSGVB-2" target="bnM7TaK5tYBboMlZSGVB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-2" value="搜索画像&lt;div&gt;user profile reader&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-4" value="8k-》4w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnM7TaK5tYBboMlZSGVB-5" target="bnM7TaK5tYBboMlZSGVB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnM7TaK5tYBboMlZSGVB-5" target="bnM7TaK5tYBboMlZSGVB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-5" value="ums" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-7" value="check 不要请求信息流画像 @mengna&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 扩容 reader ums @sat&lt;/div&gt;&lt;div&gt;2. 为啥切ums 失败？@sat&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-8" value="搜索自建 sos&lt;div&gt;确认成本和负载&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-10" value="搜索画像 for push&lt;div&gt;user profile reader&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-12" value="中台欧拉画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-14" value="信息流画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-15" value="8k-》4w-〉8w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-16" value="1. 在线服务&amp;nbsp; um， fq @chenyang @dongzh&lt;div&gt;2. 用的是已推全？@chenyang@rickycui&lt;/div&gt;&lt;div&gt;3. 存储的读会增加，中台画像成本会新增多少？加cache会增加多少？不需要中台画像&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="405" width="470" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
