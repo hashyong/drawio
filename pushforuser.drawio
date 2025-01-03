@@ -38,7 +38,7 @@
           <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnM7TaK5tYBboMlZSGVB-10" value="搜索画像 for push&lt;div&gt;user profile reader&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnM7TaK5tYBboMlZSGVB-12" value="中台欧拉画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="bnM7TaK5tYBboMlZSGVB-15" value="8k-》4w-〉8w" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bnM7TaK5tYBboMlZSGVB-16" value="1. 在线服务&amp;nbsp; um， fq @chenyang @dongzh&lt;div&gt;2. 用的是已推全？@chenyang@rickycui&lt;/div&gt;&lt;div&gt;3. 存储的读会增加，中台画像成本会新增多少？加cache会增加多少？不需要中台画像&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bnM7TaK5tYBboMlZSGVB-16" value="1. 在线服务&amp;nbsp; um， fq @chenyang @dongzh&lt;div&gt;2. 用的是已推全？@chenyang@rickycui&lt;/div&gt;&lt;div&gt;3. 存储的读会增加，中台画像成本会新增多少？加cache会增加多少？不需要中台画像 @dongzh&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="405" width="470" height="70" as="geometry" />
         </mxCell>
       </root>
