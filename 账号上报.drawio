@@ -76,11 +76,8 @@
         <mxCell id="NvDquahLOxgJOPCi-R8I-26" value="用户关注列表融合&lt;div&gt;855 917 1266&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;t&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;odo：新版使用用户关注列表来做融合打分&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="-90" width="256.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NvDquahLOxgJOPCi-R8I-27" value="现状 截断top200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="80" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NvDquahLOxgJOPCi-R8I-29" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;目标 不截断&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;问题：大于1000， 有8k用户，考虑读取性能 @朱爷&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="120" height="30" as="geometry" />
+        <mxCell id="NvDquahLOxgJOPCi-R8I-29" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;现状 截断top200&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;目标 不截断&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;问题：大于1000， 有8k用户，考虑读取性能 @朱爷&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NvDquahLOxgJOPCi-R8I-30" value="&lt;font color=&quot;#ff0000&quot;&gt;读取性能 @qichen&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="210" width="120" height="30" as="geometry" />
