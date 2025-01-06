@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="9ObKdgJYu0peYSJCS-nI">
-    <mxGraphModel>
+    <mxGraphModel dx="2069" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NvDquahLOxgJOPCi-R8I-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-3" target="NvDquahLOxgJOPCi-R8I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-3" value="用户关注 账号A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-4" target="NvDquahLOxgJOPCi-R8I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-4" value="实时上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-6" target="NvDquahLOxgJOPCi-R8I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-6" value="拉取用户全量关注列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-8" target="NvDquahLOxgJOPCi-R8I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-8" value="实时上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-10" target="NvDquahLOxgJOPCi-R8I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-10" value="TNewsRtc（实时画像）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-12" target="NvDquahLOxgJOPCi-R8I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-12" value="用户取消关注 账号A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-14" target="NvDquahLOxgJOPCi-R8I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-14" value="dcache" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-16" target="NvDquahLOxgJOPCi-R8I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-16" value="FQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-17" target="NvDquahLOxgJOPCi-R8I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-17" value="UM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-18" value="bdb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-22" target="NvDquahLOxgJOPCi-R8I-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-22" target="NvDquahLOxgJOPCi-R8I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-22" value="推荐服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-25" value="用户原始关注列表 263" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="135" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-26" value="用户关注列表融合&lt;div&gt;855 917 1266&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;t&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;odo：新版使用用户关注列表来做融合打分&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-90" width="256.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-27" value="现状 截断top200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-29" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;目标 不截断&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;问题：大于1000， 有8k用户，考虑读取性能 @朱爷&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-30" value="&lt;font color=&quot;#ff0000&quot;&gt;读取性能 @qichen&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-31" value="&lt;font color=&quot;#ff0000&quot;&gt;应用性能，考虑截断@yunchen@haicheng&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-32" value="&lt;font color=&quot;#ff0000&quot;&gt;应用性能 截断配置 @qichen@ricky&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-33" value="1.6 给评估结论 加开关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-34" value="1.7 推全" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-35" value="&lt;font color=&quot;#ff0000&quot;&gt;应用性能 截断配置 @qichen@ricky&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-36" target="NvDquahLOxgJOPCi-R8I-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-36" target="NvDquahLOxgJOPCi-R8I-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-36" value="puin 三端融合账号ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-37" target="NvDquahLOxgJOPCi-R8I-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvDquahLOxgJOPCi-R8I-37" target="NvDquahLOxgJOPCi-R8I-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-37" value="企鹅号账号ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="520" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-39" value="看点账号ID（QQ号 ｜｜ 企鹅号相关）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="610" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-42" value="主账号 ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-44" value="从账号 ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="615" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-46" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;建议向 puin收敛&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1. 画像 @ricky@qichen 上实验，批量替换看效果&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2. 推荐侧@yunchen@haicheng&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="440" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDquahLOxgJOPCi-R8I-47" value="&lt;font color=&quot;#ff0000&quot;&gt;诊脉 查询全量关注列表底表， 小朱哥提供接口，诊脉接入（新增接口）@qichen @zhongzheng@hongbao&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="690" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
