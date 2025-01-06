@@ -88,11 +88,8 @@
         <mxCell id="NvDquahLOxgJOPCi-R8I-32" value="&lt;font color=&quot;#ff0000&quot;&gt;应用性能 截断配置 @qichen@ricky&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NvDquahLOxgJOPCi-R8I-33" value="1.6 给评估结论 加开关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NvDquahLOxgJOPCi-R8I-34" value="1.7 推全" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="140" height="30" as="geometry" />
+        <mxCell id="NvDquahLOxgJOPCi-R8I-33" value="&lt;div&gt;&amp;nbsp;用户关注列表截断 排期&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1.6 给评估结论， 加开关有异常及时回滚&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1.7 线上推全&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NvDquahLOxgJOPCi-R8I-35" value="&lt;font color=&quot;#ff0000&quot;&gt;应用性能 截断配置 @qichen@ricky&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="180" height="30" as="geometry" />
